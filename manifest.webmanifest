@@ -3,8 +3,8 @@
   "short_name": "Menu Stock",
   "start_url": "./",
   "display": "standalone",
-  "background_color": "#f47b55",
-  "theme_color": "#f47b55",
+  "background_color": "#f58b57",
+  "theme_color": "#f58b57",
   "icons": [
     {
       "src": "icon-192.png",
